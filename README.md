@@ -27,8 +27,8 @@ A dynamic, macro-enabled Excel tool that models how changes in working capital a
 
 ##  File Contents
 
-| `Cash_Flow_Optimization_Simulator.xlsm` - Main macro-enabled workbook
-| `CashFlowSimulator.bas` - VBA macro module (import into Excel VBA Editor)
+`Cash_Flow_Optimization_Simulator.xlsm` - Main macro-enabled workbook
+`CashFlowSimulator.bas` - VBA macro module (import into Excel VBA Editor)
 
 ---
 
