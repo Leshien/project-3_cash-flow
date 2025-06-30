@@ -33,16 +33,6 @@ A dynamic, macro-enabled Excel tool that models how changes in working capital a
 
 ---
 
-##  Why It Matters
-
-This tool showcases:
-- Strategic thinking in **cash cycle optimization**
-- Technical capability with **Excel, Power Query, and VBA**
-- Ability to model and communicate **business impact under uncertainty**
-- The mindset of a **financial partner, not just a reporter**
-
----
-
 ## How to Use
 
 1. Open the `.xlsm` file in Excel
